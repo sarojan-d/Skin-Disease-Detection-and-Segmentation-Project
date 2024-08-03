@@ -20,3 +20,5 @@ https://www.kaggle.com/datasets/tschandl/ham10000-lesion-segmentations?resource=
 https://figshare.com/s/c7feb070d066a4ccce19
 </br>
 
+## test for `preprocessing test.ipynb` v1
+![image](https://github.com/user-attachments/assets/cb866734-9e66-4f0f-b417-3c0cf6153d91)
