@@ -1,4 +1,6 @@
-# For Skin disease detection and segemntation as major project on ham10000
+# For Skin disease detection and segmentation on ham10000 as major project 
+comparison for yolo5 vs yolo7 detection
+comparison for u-net and dlabv3+ segmentation
 
 ## for dataset
 https://www.kaggle.com/datasets/kmader/skin-cancer-mnist-ham10000
