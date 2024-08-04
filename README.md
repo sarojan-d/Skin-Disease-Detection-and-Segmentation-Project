@@ -17,8 +17,8 @@ https://www.kaggle.com/datasets/tschandl/ham10000-lesion-segmentations?resource=
 </br>
 
 
-## for annotated dataset i think.  (yea ended up with using above segmented dataset and converting it to annotations)
-https://figshare.com/s/c7feb070d066a4ccce19
+## for annotated dataset i think. (not used anymore)
+https :// figshare. com /s / c7feb070d066a4ccce19
 </br>
 
 ## test for `preprocessing test.ipynb` v1
@@ -34,3 +34,12 @@ https://figshare.com/s/c7feb070d066a4ccce19
 and outside this generated for some reason</br>
 
 ![image](https://github.com/user-attachments/assets/b6e42896-ea4d-4fdb-a072-d8d63c618377)
+
+`copreprocess3.ipynb` generated preprocessed_images, annotations directoris as follows
+![image](https://github.com/user-attachments/assets/ce1f0ba6-41c2-43d2-9243-138d52e8e88e)
+but annotations don't match up with either original nor new preprocessed  images
+![image](https://github.com/user-attachments/assets/6860552e-a588-4cb5-96d3-4cfd0b347b65)
+and proprocessed ones don't ahve the dimensions at all
+![image](https://github.com/user-attachments/assets/8a20a639-8eeb-4662-b503-e6e9530de75f)
+
+
