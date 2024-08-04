@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/97f293ca-2a48-4a23-9654-273d6acac508)![image](https://github.com/user-attachments/assets/0eae600e-d031-4d14-8487-8ceb0dea6f93)# For Skin disease detection and segmentation on ham10000 as major project 
+# For Skin disease detection and segmentation on ham10000 as major project 
 comparison for yolo5 vs yolo7 detection </br>
 comparison for u-net and dlabv3+ segmentation </br>
 </br>
