@@ -112,3 +112,8 @@ df: 1000 (original: 115)
 ![image](https://github.com/user-attachments/assets/d5932cae-5657-4c4d-b29d-a3b585cdcaa8)
 ![image](https://github.com/user-attachments/assets/f68925d2-5328-4018-ba92-fc3116a0f742)
 
+</br>
+annotations on images
+![image](https://github.com/user-attachments/assets/4684875b-005e-41d0-abdc-08bae929a781)
+
+
