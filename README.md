@@ -118,3 +118,14 @@ annotations on images
 ![image](https://github.com/user-attachments/assets/4684875b-005e-41d0-abdc-08bae929a781)
 
 
+</br>
+
+## shifted to colab
+</br>
+had to change labels from 1-7 to 0-6
+</br>
+stopped midway coz resources in colab finished
+
+![image](https://github.com/user-attachments/assets/5a848332-0562-4391-a508-8717712796d8)
+
+
